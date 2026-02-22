@@ -1,0 +1,552 @@
+[
+    {
+        "intent": "summarize",
+        "risk": "LOW",
+        "score": 100
+    },
+    {
+        "intent": "question",
+        "risk": "HIGH",
+        "score": 100.0
+    },
+    {
+        "intent": "compare",
+        "risk": "HIGH",
+        "score": 11.27
+    },
+    {
+        "intent": "explain",
+        "risk": "HIGH",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "HIGH",
+        "score": 20.0
+    },
+    {
+        "intent": "summarize",
+        "risk": "LOW",
+        "score": 100
+    },
+    {
+        "intent": "question",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "HIGH",
+        "score": 100.0
+    },
+    {
+        "intent": "compare",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "extract",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "MEDIUM",
+        "score": 55.0
+    },
+    {
+        "intent": "question",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "compare",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "compare",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "HIGH",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "summarize",
+        "risk": "LOW",
+        "score": 100
+    },
+    {
+        "intent": "summarize",
+        "risk": "LOW",
+        "score": 100
+    },
+    {
+        "intent": "summarize",
+        "risk": "LOW",
+        "score": 100
+    },
+    {
+        "intent": "question",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "summarize",
+        "risk": "LOW",
+        "score": 100
+    },
+    {
+        "intent": "question",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "HIGH",
+        "score": 100.0
+    },
+    {
+        "intent": "summarize",
+        "risk": "LOW",
+        "score": 100
+    },
+    {
+        "intent": "question",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "compare",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "compare",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "extract",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "summarize",
+        "risk": "LOW",
+        "score": 100
+    },
+    {
+        "intent": "question",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "summarize",
+        "risk": "LOW",
+        "score": 100
+    },
+    {
+        "intent": "explain",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "compare",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "MEDIUM",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "summarize",
+        "risk": "LOW",
+        "score": 100
+    },
+    {
+        "intent": "extract",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 46.0
+    },
+    {
+        "intent": "compare",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "compare",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "summarize",
+        "risk": "LOW",
+        "score": 100
+    },
+    {
+        "intent": "explain",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "LOW",
+        "score": 100
+    },
+    {
+        "intent": "explain",
+        "risk": "LOW",
+        "score": 100
+    },
+    {
+        "intent": "explain",
+        "risk": "LOW",
+        "score": 100
+    },
+    {
+        "intent": "summarize",
+        "risk": "LOW",
+        "score": 100
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "LOW",
+        "score": 100
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "describe",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "extract",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "describe",
+        "risk": "LOW",
+        "score": 88.0
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "compare",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "describe",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "describe",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "describe",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "describe",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "describe",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "LOW",
+        "score": 100
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "explain",
+        "risk": "LOW",
+        "score": 100
+    },
+    {
+        "intent": "explain",
+        "risk": "LOW",
+        "score": 100
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "question",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "describe",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "describe",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "compare",
+        "risk": "LOW",
+        "score": 100.0
+    },
+    {
+        "intent": "compare",
+        "risk": "LOW",
+        "score": 100.0
+    }
+]
