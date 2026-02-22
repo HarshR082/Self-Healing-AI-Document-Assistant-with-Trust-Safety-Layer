@@ -93,12 +93,12 @@ Response
 
 ## ⚙️ Local Setup
 
-### 1️⃣ Clone Repository
+1️⃣ Clone Repository
 ```bash
 git clone https://github.com/yourusername/project-name.git
 cd project-name
 ```
-###2️⃣ Create Virtual Environment
+2️⃣ Create Virtual Environment
 ```bash
 python -m venv venv
 
@@ -110,20 +110,52 @@ venv\Scripts\activate
 Mac/Linux
 source venv/bin/activate
 ```
-###3️⃣ Install Dependencies
+3️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
-###4️⃣ Configure API Key
+4️⃣ Configure API Key
 ```bash
 Create a .env file:
 GROQ_API_KEY=your_api_key_here
 ```
-###5️⃣ Run Backend
+5️⃣ Run Backend
 ```bash
 uvicorn api:app --reload
 ```
-###6️⃣ Launch Interface
+6️⃣ Launch Interface
 ``` bash
 streamlit run app.py
 ```
+##📁 Project Structure
+RAG/
+│
+├── api.py                  # FastAPI endpoints
+├── rag_engine.py           # RAG pipeline & intelligence layer
+├── ingest.py               # Document ingestion
+├── knowledge_store.py      # Knowledge management
+├── semantic_cache.py       # Semantic caching
+├── adaptive_learning.py    # Learning loop & feedback signals
+├── hallucination_guard.py  # Trust & safety layer
+├── self_healing.py         # Response reliability logic
+├── metrics_store.py        # Monitoring & analytics
+├── app.py                  # Streamlit interface
+├── requirements.txt        # Dependencies
+└── .env                    # API keys
+
+##🧠 What Makes It Unique?
+✅ Self-Healing AI
+
+Automatically replaces unreliable responses with safe, evidence-based answers.
+
+✅ Trust-Aware Intelligence
+
+Detects hallucinations and highlights unsupported content.
+
+✅ Adaptive Learning Loop
+
+Improves performance using feedback signals and query patterns.
+
+✅ Enterprise Reliability
+
+Designed for production-grade accuracy and explainability.
