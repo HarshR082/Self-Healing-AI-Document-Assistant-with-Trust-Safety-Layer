@@ -75,7 +75,7 @@ Self-Healing Logic
 Adaptive Learning Loop
 ↓
 Response
-
+---
 ## 🛠 Technology Stack
 
 | Technology | Purpose |
@@ -127,7 +127,8 @@ uvicorn api:app --reload
 ``` bash
 streamlit run app.py
 ```
-##📁 Project Structure
+---
+## 📁 Project Structure
 RAG/
 │
 ├── api.py                  # FastAPI endpoints
@@ -143,7 +144,8 @@ RAG/
 ├── requirements.txt        # Dependencies
 └── .env                    # API keys
 
-##🧠 What Makes It Unique?
+## 🧠 What Makes It Unique?
+
 ✅ Self-Healing AI
 
 Automatically replaces unreliable responses with safe, evidence-based answers.
