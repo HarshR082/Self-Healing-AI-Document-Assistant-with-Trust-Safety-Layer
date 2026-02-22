@@ -161,3 +161,59 @@ Improves performance using feedback signals and query patterns.
 ✅ Enterprise Reliability
 
 Designed for production-grade accuracy and explainability.
+
+---
+## 📊 Use Cases
+
+✔ Enterprise knowledge assistants
+✔ Research & document analysis
+✔ Compliance & policy review
+✔ Technical documentation search
+✔ Academic & study assistants
+
+## 🚀 Future Enhancements
+
+React enterprise UI
+
+Source citation highlighting
+
+Confidence visualization dashboard
+
+Role-based response modes
+
+CI/CD & Docker deployment
+
+Multi-user workspace support
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+Fork the repository
+
+Create a feature branch
+
+Commit changes
+
+Push & open a PR
+
+## 🙌 Acknowledgments
+
+Groq for ultra-fast LLM inference
+
+LangChain for RAG orchestration
+
+Hugging Face for embeddings
+
+Open-source community ❤️
+
+## 📬 Contact
+
+Harsh Raj
+Open an issue for suggestions, improvements, or collaboration.
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
+
+## ⭐ If you find this project useful, consider giving it a star!
