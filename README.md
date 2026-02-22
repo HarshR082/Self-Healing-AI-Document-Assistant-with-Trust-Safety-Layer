@@ -1,4 +1,4 @@
-# 🚀 Self-Healing RAG Document Intelligence System
+# 🚀 Self-Healing AI Document Assistant with Trust & Safety Layer
 
 Welcome to the **Self-Healing RAG Document Intelligence System** — an enterprise-grade AI assistant that transforms documents into **reliable, explainable insights**.
 
