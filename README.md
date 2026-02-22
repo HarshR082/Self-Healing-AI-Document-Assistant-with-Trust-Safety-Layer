@@ -143,6 +143,7 @@ RAG/
 ├── app.py                  # Streamlit interface
 ├── requirements.txt        # Dependencies
 └── .env                    # API keys
+---
 
 ## 🧠 What Makes It Unique?
 
@@ -166,54 +167,59 @@ Designed for production-grade accuracy and explainability.
 ## 📊 Use Cases
 
 ✔ Enterprise knowledge assistants
+
 ✔ Research & document analysis
+
 ✔ Compliance & policy review
+
 ✔ Technical documentation search
+
 ✔ Academic & study assistants
 
+---
 ## 🚀 Future Enhancements
 
-React enterprise UI
+- React enterprise UI
 
-Source citation highlighting
+- Source citation highlighting
 
-Confidence visualization dashboard
+- Confidence visualization dashboard
 
-Role-based response modes
+- Role-based response modes
 
-CI/CD & Docker deployment
+- CI/CD & Docker deployment
 
-Multi-user workspace support
-
+- Multi-user workspace support
+---
 ## 🤝 Contributing
 
-Contributions are welcome!
+- Contributions are welcome!
 
-Fork the repository
+- Fork the repository
 
-Create a feature branch
+- Create a feature branch
 
-Commit changes
+- Commit changes
 
-Push & open a PR
-
+- Push & open a PR
+---
 ## 🙌 Acknowledgments
 
-Groq for ultra-fast LLM inference
+- Groq for ultra-fast LLM inference
 
-LangChain for RAG orchestration
+- LangChain for RAG orchestration
 
-Hugging Face for embeddings
+- Hugging Face for embeddings
 
-Open-source community ❤️
-
+- Open-source community ❤️
+---
 ## 📬 Contact
 
 Harsh Raj
-Open an issue for suggestions, improvements, or collaboration.
-
+- Open an issue for suggestions, improvements, or collaboration.
+---
 ## 📜 License
 
-This project is open-source and available under the MIT License.
-
+- This project is open-source and available under the MIT License.
+---
 ## ⭐ If you find this project useful, consider giving it a star!
