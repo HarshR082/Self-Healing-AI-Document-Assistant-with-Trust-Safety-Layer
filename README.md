@@ -97,31 +97,32 @@ Response
 ```bash
 git clone https://github.com/yourusername/project-name.git
 cd project-name
-
+```
 ###2️⃣ Create Virtual Environment
 ```bash
 python -m venv venv
 
 Activate:
-
 Windows
 ```bash
 venv\Scripts\activate
 ```bash
 Mac/Linux
-
 source venv/bin/activate
+```
 ###3️⃣ Install Dependencies
-```bahs
+```bash
 pip install -r requirements.txt
+```
 ###4️⃣ Configure API Key
 ```bash
 Create a .env file:
-
 GROQ_API_KEY=your_api_key_here
+```
 ###5️⃣ Run Backend
 ```bash
 uvicorn api:app --reload
+```
 ###6️⃣ Launch Interface
 ``` bash
 streamlit run app.py
