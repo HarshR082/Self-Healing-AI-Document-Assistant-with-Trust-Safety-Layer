@@ -2,6 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.db
+*.sqlite3
+*.json
+cache/
+logs/
 
 # Virtual environment
 venv/
