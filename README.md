@@ -101,13 +101,14 @@ cd project-name
 2️⃣ Create Virtual Environment
 ```bash
 python -m venv venv
-
+```
 Activate:
 Windows
 ```bash
 venv\Scripts\activate
-```bash
+```
 Mac/Linux
+```bash
 source venv/bin/activate
 ```
 3️⃣ Install Dependencies
